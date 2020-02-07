@@ -16,7 +16,7 @@ Terminal
 *the source of this themes is gnome-look.org*<<br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>For lock screen:</h2>
-Copy 'black.jpg' to backgroung folder '''cp ~/Downloads/bg-boat.jpg /usr/share/backgrounds/'''
+Copy 'black.jpg' to backgroung folder <br> ```cp ~/Downloads/bg-boat.jpg /usr/share/backgrounds/``` <br>
 Backup default 'ubuntu.css' to restore in case of crash |cp /usr/share/gnome-shell/theme/ubuntu.css /usr/share/gnome-shell/theme/ubuntu.bk|
 Copy 'ubuntu.css' to theme folder |cp ~/Downloads/ubuntu.css /usr/share/gnome-shell/theme/|
 Restart the pc |reboot -f|
