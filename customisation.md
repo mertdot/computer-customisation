@@ -1,21 +1,20 @@
 ## Terminal
 
-##Default shell: zsh (framework for customisation oh-my-zsh)
-##custom terminal app: hyper
+## Default shell: zsh (framework for customisation oh-my-zsh)
+## custom terminal app: hyper
 *******************************************************************************************************************
-##Ubuntu
+## Ubuntu
 
-##Controlling customisation: Tweaks
-##In Tweaks;
-##applications:adwait-dark
-##cursor:Capitaine
-##icons:Inspitation-red-dark
-##shell:ChromeOS-dark-compact-shell
+  * Controlling customisation: Tweaks
+  * In Tweaks;
+  * Applications:adwait-dark
+  * cursor:Capitaine
+  * icons:Inspitation-red-dark
+  * shell:ChromeOS-dark-compact-shell
 
-#the source of this themes is:
-```URL: gnome-look.org
-```
----------------------------------------------------------------------------------------------------------------------------------------------------
+For tons of [themes](gnome-look.org).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ##For lock screen:
 Copy 'black.jpg' to backgroung folder:
 
