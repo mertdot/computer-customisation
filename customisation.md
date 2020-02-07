@@ -12,7 +12,7 @@
   * icons:Inspitation-red-dark
   * shell:ChromeOS-dark-compact-shell
 
-For tons of [themes](gnome-look.org/).
+For tons of [themes](https://www.gnome-look.org/).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ##For lock screen:
