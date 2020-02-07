@@ -1,12 +1,11 @@
 ## Terminal
 
-## Default shell: zsh (framework for customisation oh-my-zsh)
-## custom terminal app: hyper
+Default shell: [zsh](https://www.zsh.org/) (framework for customisation [oh-my-zsh](https://ohmyz.sh/))
+Custom terminal app: [hyper](https://hyper.is/)
 *******************************************************************************************************************
 ## Ubuntu
-
-  * Controlling customisation: Tweaks
-  * In Tweaks;
+  We used Tweaks to customize our computer.You can also use that or find another.
+  Settings in the Tweaks;
   * Applications:adwait-dark
   * cursor:Capitaine
   * icons:Inspitation-red-dark
@@ -14,8 +13,8 @@
 
 For tons of [themes](https://www.gnome-look.org/).
 
---------------------------------------------------------------------------------------------------------------------------------------------------
-##For lock screen:
+## For lock screen:
+
 Copy 'black.jpg' to backgroung folder:
 
 ``` bash
@@ -35,4 +34,5 @@ Restart the pc:
 $  reboot -f
 ```
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-##for dock: plank
+## Dock
+* [Plank](https://launchpad.net/plank)
