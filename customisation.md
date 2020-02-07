@@ -1,6 +1,8 @@
 ## Terminal
 
 Default shell: [zsh](https://www.zsh.org/) (framework for customisation [oh-my-zsh](https://ohmyz.sh/))
+
+
 Custom terminal app: [hyper](https://hyper.is/)
 *******************************************************************************************************************
 ## Ubuntu
