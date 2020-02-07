@@ -5,6 +5,7 @@ Default shell: [zsh](https://www.zsh.org/) (framework for zsh shell [oh-my-zsh](
 
 Custom terminal app: [hyper](https://hyper.is/)
 *******************************************************************************************************************
+
 ## Ubuntu
   We used Tweaks to customize our computer.You can also use that or find another.
   Settings in the Tweaks;
