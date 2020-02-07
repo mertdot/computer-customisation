@@ -1,6 +1,6 @@
 ## Terminal
 
-Default shell: [zsh](https://www.zsh.org/) (framework for customization [oh-my-zsh](https://ohmyz.sh/))
+Default shell: [zsh](https://www.zsh.org/) (framework for zsh shell [oh-my-zsh](https://ohmyz.sh/))
 
 
 Custom terminal app: [hyper](https://hyper.is/)
@@ -8,10 +8,10 @@ Custom terminal app: [hyper](https://hyper.is/)
 ## Ubuntu
   We used Tweaks to customize our computer.You can also use that or find another.
   Settings in the Tweaks;
-  * Applications:adwait-dark
-  * cursor:Capitaine
-  * icons:Inspitation-red-dark
-  * shell:ChromeOS-dark-compact-shell
+  * Applications: adwait-dark
+  * Cursor: Capitaine
+  * Icons: Inspitation-red-dark
+  * Shell: ChromeOS-dark-compact-shell
 
 For tons of [themes](https://www.gnome-look.org/).
 
