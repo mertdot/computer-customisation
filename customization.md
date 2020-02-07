@@ -1,6 +1,6 @@
 ## Terminal
 
-Default shell: [zsh](https://www.zsh.org/) (framework for customisation [oh-my-zsh](https://ohmyz.sh/))
+Default shell: [zsh](https://www.zsh.org/) (framework for customization [oh-my-zsh](https://ohmyz.sh/))
 
 
 Custom terminal app: [hyper](https://hyper.is/)
@@ -17,7 +17,7 @@ For tons of [themes](https://www.gnome-look.org/).
 
 ## For lock screen:
 
-Copy 'black.jpg' to backgroung folder:
+Copy 'black.jpg' to background folder:
 
 ``` bash
 $  cp ~/Downloads/bg-boat.jpg /usr/share/backgrounds/
