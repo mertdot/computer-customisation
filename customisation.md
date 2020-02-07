@@ -6,7 +6,7 @@ Terminal
 -custom terminal app:hyper
 
 *****************************************************************************************************************************************************
-Ubuntu
+Ubuntu <br>
 Controlling customisation: Tweaks
 In Tweaks;
 applications :adwait-dark
