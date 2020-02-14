@@ -10,7 +10,7 @@ Custom terminal app: [hyper](https://hyper.is/)
   We used Tweaks to customize our computer.You can also use that or find another.
   Settings in the Tweaks;
   * Applications: adwait-dark
-  * Cursor: Capitaine
+  * Cursor: X11-Default-Black ,Capitaine
   * Icons: Inspitation-red-dark
   * Shell: ChromeOS-dark-compact-shell
 
