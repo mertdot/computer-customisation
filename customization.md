@@ -7,7 +7,7 @@ Custom terminal app: [hyper](https://hyper.is/)
 *******************************************************************************************************************
 
 ## Ubuntu
-  We used Tweaks to customize our computer.You can also use that or find another.
+  I used Tweaks to customize our computer.You can also use that or find another.
   Settings in the Tweaks;
   * Applications: adwait-dark
   * Cursor: X11-Default-Black ,Capitaine
